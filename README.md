@@ -14,7 +14,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 
-git clone https://github.com/B-S-Nikil/BMI-Calculator.git
+git clone https://github.com/B-S-Nikil/Body-Mass-Index-Calculator.git
 
 Usage
 
